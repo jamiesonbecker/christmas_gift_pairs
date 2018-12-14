@@ -2,7 +2,7 @@
 
 To use, just modify the `christmas_pairs.py` file and replace the names of the adults and the kids with real first names. (No spaces -- use underscores instead.)
 
-Don't forget to `chmod +x christmas_pairs.py` on Mac or Linux and then execute.
+Don't forget to `chmod +x christmas_pairs.py` on Mac or Linux and then execute. (On Windows, you'll probably need to execute it with your Python interpreter after installing it; don't forget that you'll have to use an actual programming editor to edit the script -- don't try it with Word, but even Notepad will work as an editor.)
 
 Make sure that the number of adults is each two and the number of groups of parents match each of the groups of kids (in other words, if there are seven families, then there should be seven groups of parents and seven groups of kids; including the parents is probably optional, but it's included here since it's easy to do.)
 
